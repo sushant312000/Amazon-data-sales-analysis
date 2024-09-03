@@ -17,3 +17,6 @@ This analysis aims to uncover the different customer segments, purchase trends a
 
 ### Below queries answered with analysis in this project
 ![image](https://github.com/user-attachments/assets/c529f235-6deb-4e0e-adbc-a5c47ba4fd24)
+
+## Power BI Report
+![image](https://github.com/user-attachments/assets/1fe12bdd-ae71-4c40-9a7c-fca82c75f6bd)
