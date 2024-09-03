@@ -14,3 +14,6 @@ This analysis aims to answer the question of the sales trends of product. The re
 ### Customer Analysis
 
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
+
+### Below queries answered with analysis in this project
+![image](https://github.com/user-attachments/assets/c529f235-6deb-4e0e-adbc-a5c47ba4fd24)
