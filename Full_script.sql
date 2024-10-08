@@ -4,7 +4,7 @@ create database sql_capstone;
 /* Using that database */
 use sql_capstone;
 
--- We have amazon data, I'm creating a table and will import the data from csv file
+-- We have supermarket sales data, I'm creating a table and will import the data from csv file
 CREATE TABLE amazon_data (
     invoice_id VARCHAR(30),
     branch VARCHAR(5),
