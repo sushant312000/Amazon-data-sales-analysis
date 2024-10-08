@@ -1,6 +1,6 @@
-# Amazon sales data analysis
+# Supermarket sales data analysis
 
-The major aim of this project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
+The major aim of this project is to gain insight into the sales data of supermarket to understand the different factors that affect sales of the different branches.
 
 ## Analysis List
 ### Product Analysis
