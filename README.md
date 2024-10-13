@@ -15,13 +15,11 @@ This analysis aims to answer the question of the sales trends of product. The re
 
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
 
-### Insights
-![image](https://github.com/user-attachments/assets/dec0bb62-7c75-4f2b-b387-a22d096024d4)
-
-
 ### Below queries answered with analysis in this project
 ![image](https://github.com/user-attachments/assets/c529f235-6deb-4e0e-adbc-a5c47ba4fd24)
 
 ## Power BI Report
 ![image](https://github.com/user-attachments/assets/51a48316-350f-4429-ab43-aded321224f1)
 
+### Insights
+![image](https://github.com/user-attachments/assets/dec0bb62-7c75-4f2b-b387-a22d096024d4)
